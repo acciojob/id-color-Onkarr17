@@ -5,19 +5,19 @@
 	 background-color: rgb(255,255,0);
 	border-style: solid;
 	Border-width: 1px;
-	Border-color: green;
+	Border-color: rgb(0,128,0);
 }
 
 #red{
 	 background-color: rgb(255,0,0);
 	border-style: solid;
 	border-width: 1px;
-	border-color: black;
+	border-color: rgb(0,0,0);
 }
 
 #green{
 	 background-color: rgb(0,128,0);
 	border-style: solid;
 	border-width: 1px;
-	border-color: yellow;
+	border-color: rgb(255,255,0);
 }
